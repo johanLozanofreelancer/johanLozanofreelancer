@@ -15,7 +15,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador web en constante aprendiz
 
 Descubre el funcionamiento real de mis proyectos desplegados en Netlify:
 
-- **Página Freelancer** *(próximamente disponible)*
+- **Página Freelancer** [https://johanlozanofreelancer.netlify.app/](https://johanlozanofreelancer.netlify.app/)
 - **Tienda de ropa urbana:** [https://tienda-de-ropa-urbana.netlify.app/](https://tienda-de-ropa-urbana.netlify.app/)
 - **Blog de Café:** [https://blog-de-cafe-por-johan-lozano.netlify.app/](https://blog-de-cafe-por-johan-lozano.netlify.app/)
 - **Festival de Música Underground:** [https://festival-de-musica-underground.netlify.app/](https://festival-de-musica-underground.netlify.app/)
