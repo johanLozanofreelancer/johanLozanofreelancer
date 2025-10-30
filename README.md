@@ -1,7 +1,8 @@
 
 # 👋 ¡Hola! Soy Johan Lozano
 
-![Banner de Johan Lozano - Fullstack Developer](https://github.com/johanLozanofreelancer/johanLozanofreelancer/Banner_JohanDev.png)
+![Banner de Johan Lozano - Fullstack Developer](https://github.com/johanLozanofreelancer/johanLozanofreelancer/img/Banner_JohanDev.png)
+
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador web en constante aprendizaje y evolución, apasionado por la creación de soluciones digitales innovadoras. Mi objetivo es integrarme a equipos de trabajo donde pueda aportar mis conocimientos y continuar desarrollando habilidades en el área tecnológica.
 
