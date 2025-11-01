@@ -54,6 +54,4 @@ Desarrollé un sistema básico de gestión inmobiliaria con frontend y backend.
 
 Si deseas añadir un elemento visual dinámico sobre tu actividad, puedes incluir tarjetas de estadísticas.
 
-[![Estadísticas de GitHub de Johan](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=buefy&hide_border=true&locale=es)](https://github.com/TuUsuarioGitHub)
-
----
+[![Estadísticas de GitHub de Johan](https://github-readme-stats.vercel.app/api?username=johanLozanofreelancer&show_icons=true&theme=buefy&hide_border=true&locale=es)](https://github.com/johanLozanofreelancer)
