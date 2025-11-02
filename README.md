@@ -1,5 +1,5 @@
 
-# ¡Hola! soy Johan Lozano, bienvenido a mi perfil de GitHu
+# 👋 ¡Hola! soy Johan Lozano, bienvenido a mi perfil de GitHub
 
 ![Banner de Johan Lozano - Fullstack Developer](https://github.com/johanLozanofreelancer/johanLozanofreelancer/raw/8cc2c416a6adaa17d0cf3df41e5c662761fc25a5/img/Banner_JohanDev.png)
 
