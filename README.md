@@ -1,7 +1,7 @@
 
-![Banner de Johan Lozano - Fullstack Developer](https://github.com/johanLozanofreelancer/johanLozanofreelancer/raw/2e1a90d7f8c9d62738781cba64f7be1a05e81d1e/img/Banner_JohanDev.png)
+# ¡Hola! soy Johan Lozano, bienvenido a mi perfil de GitHu
 
-# 👋 ¡Hola! Soy Johan Lozano
+![Banner de Johan Lozano - Fullstack Developer](https://github.com/johanLozanofreelancer/johanLozanofreelancer/raw/8cc2c416a6adaa17d0cf3df41e5c662761fc25a5/img/Banner_JohanDev.png)
 
 Bienvenido a mi perfil de GitHub. Soy un **Desarrollador Web** en constante aprendizaje y evolución, apasionado por la creación de soluciones digitales innovadoras. Mi objetivo es integrarme a equipos de trabajo donde pueda aportar mis conocimientos y continuar desarrollando habilidades en el área tecnológica.
 
@@ -20,18 +20,23 @@ Aquí puedes encontrar las tecnologías con las que trabajo habitualmente
 Descubre el funcionamiento real de mis proyectos en mi perfil de Netlify:
 
 * ### 💼 [Página Freelancer](https://johanlozanofreelancer.netlify.app/)
+
     Diseño y desarrollo de mi portafolio profesional.
 
 * ### 🛍️ [Tienda de Ropa Urbana](https://tienda-de-ropa-urbana.netlify.app/)
+
     Frontend de un e-commerce con diseño moderno y responsivo.
 
 * ### ☕ [Blog de Café](https://blog-de-cafe-por-johan-lozano.netlify.app/)
+
     Un sitio estático con enfoque en contenido y optimización.
 
 * ### 🎸 [Festival de Música Underground](https://festival-de-musica-underground.netlify.app/)
+
     Proyecto de landing page para un evento musical.
 
 * ### 🏠 Sistema de Bienes Raíces *(Próximamente)*
+
     Mi proyecto más completo, que incluye gestión de frontend y backend.
 
 ---
