@@ -10,11 +10,10 @@ He pasado los últimos años optimizando flujos de trabajo en el sector logísti
 
 ---
 
-### 🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Full Stack, con un compromiso de código diario de **19:00 a 20:00 CET**.
+### 🚀 Mi Enfoque para 2026 Actualmente centrado en dominar el ecosistema Full Stack, con un compromiso de código diario.
 
 * **Front-end:** Creando interfaces limpias y funcionales con HTML5, CSS3 y JavaScript moderno. * **Back-end:** Explorando la potencia de PHP y MySQL para la gestión de datos. * **Objetivo:** Desarrollar soluciones digitales que resuelvan problemas reales de inventario, stock y gestión operativa.
 
-### 🛠️ Tecnologías que domino (y mejorando cada día) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 --- **¿Buscas a alguien con disciplina, capacidad de adaptación y visión práctica? Hablemos.**
 ---
